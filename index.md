@@ -3,46 +3,44 @@ layout: home
 title: "Blog Projet IHM : NOM EQUIPE"
 ---
 
-## Participants du groupe : 
-Teibi Zahra, Mosbah Rania, Goales Saphiya, Ngo Andy
+<link rel="stylesheet" href="assets/style.css">
 
----
+<div class="hero">
+  <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah · Andy Ngo</p>
+</div>
 
-## Nos Interviews
-<a href="interviewZT.html" class="btn">
-Interview Zahra : 
-</a>
 
-<a href="interviewSG.html" class="btn">
-Interview Saphiya : 
-</a>
+<div class="section">
+  <h2>🩺 Interviews</h2>
 
-<a href="interviewRM.html" class="btn">
-Interview Rania : 
-</a>
+  <div class="cards">
+    <div class="card">
+      <a href="interviewZT.html">Interview Zahra</a>
+      <div class="badge">PDF</div>
+    </div>
+    <div class="card">
+      <a href="interviewSG.html">Interview Saphiya</a>
+      <div class="badge">PDF</div>
+    </div>
+    <div class="card">
+      <a href="interviewRM.html">Interview Rania</a>
+      <div class="badge">PDF</div>
+    </div>
+    <div class="card">
+      <a href="interviewAN.html">Interview Andy</a>
+      <div class="badge">PDF</div>
+    </div>
+  </div>
+</div>
 
-<a href="interviewAN.html" class="btn">
-Interview Andy : 
-</a>
 
----
-
-## Nos Vidéos
-
----
-
-<style>
-.btn {
-  display: inline-block;
-  padding: 12px 20px;
-  background: #2a7ae2;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
-.btn:hover {
-  background: #1f5fbf;
-}
-</style>
+<div class="section">
+  <h2>🎬 Vidéos</h2>
+  <div class="cards">
+    <div class="card">
+      <!-- <a href="videos.html">Voir les vidéos du projet</a>
+      <div class="badge">YouTube</div> -->
+    </div>
+  </div>
+</div>
 
