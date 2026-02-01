@@ -28,7 +28,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
       <div class="badge">PDF</div>
     </div>
     <div class="card">
-      <a href="interviewAN.html"> Interview Andy </a>
+      <a href="interviewAN.html"> Interview  Andy </a>
       <div class="badge">PDF</div>
     </div>
   </div>
@@ -63,7 +63,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 </div>
 
 <div class="section">
-  <h2>Projet sélectionné : </h2>
+  <h2>Projet sélectionné</h2>
 
  
 </div>
