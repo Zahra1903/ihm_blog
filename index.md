@@ -1,8 +1,19 @@
----
-layout: home
----
-
-Bienvenue sur mon blog.
-
+<a href="interview.html" class="btn">
 Interview Zahra : 
-[Télécharger l'interview](../docs/Interview Zahra.pdf)
+</a>
+
+<style>
+.btn {
+  display: inline-block;
+  padding: 12px 20px;
+  background: #2a7ae2;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+.btn:hover {
+  background: #1f5fbf;
+}
+</style>
+
