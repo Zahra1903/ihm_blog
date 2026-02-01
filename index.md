@@ -9,10 +9,21 @@ Teibi Zahra, Mosbah Rania, Goales Saphiya, Ngo Andy
 ---
 
 ## Nos Interviews
-<a href="interview.html" class="btn">
+<a href="interviewZT.html" class="btn">
 Interview Zahra : 
 </a>
 
+<a href="interviewSG.html" class="btn">
+Interview Zahra : 
+</a>
+
+<a href="interviewRM.html" class="btn">
+Interview Zahra : 
+</a>
+
+<a href="interviewAN.html" class="btn">
+Interview Zahra : 
+</a>
 ---
 
 ## Nos Vidéos
