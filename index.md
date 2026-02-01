@@ -6,6 +6,7 @@ title: "Blog Projet IHM : NOM EQUIPE"
 <link rel="stylesheet" href="assets/style.css">
 
 <div class="hero">
+  <h1>Blog Projet IHM : NOM EQUIPE</h1>
   <p><strong>Participants :</strong> Zahra Teibi · Saphiya Goales · Rania Mosbah · Andy Ngo</p>
 </div>
 
