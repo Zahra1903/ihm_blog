@@ -27,10 +27,6 @@ title: "Blog Projet IHM : NOM EQUIPE"
       <a href="interviewRM.html">Interview Rania</a>
       <div class="badge">PDF</div>
     </div>
-    <div class="card">
-      <a href="interviewAN.html"> Interview  Andy </a>
-      <div class="badge">PDF</div>
-    </div>
   </div>
 </div>
 
